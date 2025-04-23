@@ -17,10 +17,10 @@ Fetch API
 ⚠️ Certifique-se de que o backend Flask esteja rodando em http://localhost:5000
 
 # Clone o repositório
-git clone https://github.com/seu-usuario/bookmark-manager-frontend
+git clone [https://github.com/seu-usuario/bookmark-manager-frontend](https://github.com/amandadduraes/eviden)
 
 # Acesse a pasta
-cd bookmark-manager-frontend
+cd livraria
 
 # Instale as dependências
 npm install
