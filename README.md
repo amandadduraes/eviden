@@ -20,7 +20,7 @@ Fetch API
 git clone [https://github.com/seu-usuario/bookmark-manager-frontend](https://github.com/amandadduraes/eviden)
 
 # Acesse a pasta
-cd livraria
+cd bookmark-manager-frontend
 
 # Instale as dependências
 npm install
